@@ -48,7 +48,7 @@ Novident is built as a collection of independent, reusable libraries:
 ## Contribute 🤝
 
 We welcome:
-- **UI/UX Designers:** Help refine Scrivener-like interactions.
+- **UI/UX Designers:** Help refine Novident user experience.
 - **Technical Writers:** Improve documentation.
 - **Developers:** Tackle [Good First Issues](https://github.com/Novident/Novident/issues).
 
@@ -56,6 +56,6 @@ Review our [Contribution Guidelines](https://github.com/Novident/.github/blob/ma
 
 ## Support the Project 💙
 
-- **⭐ Star This Repo:** Show your support!
+- **Star This Repo:** Show your support!
 - **Donate:** Help fund development via [Open Collective](https://opencollective.com/Novident-Team).
 - **Spread the Word:** Share Novident with writing communities.
