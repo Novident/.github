@@ -52,10 +52,10 @@ We welcome:
 - **Technical Writers:** Improve documentation.
 - **Developers:** Tackle [Good First Issues](https://github.com/Novident/Novident/issues).
 
-Review our [Contribution Guidelines](CONTRIBUTING.md) before submitting PRs.
+Review our [Contribution Guidelines](https://github.com/Novident/.github/blob/main/CONTRIBUTING.md) before submitting PRs.
 
 ## Support the Project 💙
 
 - **⭐ Star This Repo:** Show your support!
-- **Donate:** Help fund development via [Open Collective](https://opencollective.com/novident).
+- **Donate:** Help fund development via [Open Collective](https://opencollective.com/Novident-Team).
 - **Spread the Word:** Share Novident with writing communities.
