@@ -9,9 +9,13 @@
 
 ## Motivation
 
-One of the main reasons this project was created is that (currently) there is no alternative that can match Scrivener, or at least one that offers a similar writing experience without having to pay for advanced features and that is cross-platform. As many know, Scrivener is mostly only available for iOS or macOS, although it also has support for Windows.
+**Scrivener** is one of the most beloved project-creation tools among novelists, students, and researchers. Yet, like any software, it has its limitations—poor cross-platform compatibility and a paid model that can be a barrier for many users.
 
-This is why we decided that creating Novident would be a good solution to most of the problems we have when looking for a similar alternative that is available on any current platform.
+When a product fails to meet core needs, users are forced to migrate to other platforms or build their own solutions from scratch. This means adapting to a new environment or enduring costly learning curves—neither of which is always practical. The most frustrating part? There’s no true **Scrivener** alternative that preserves its most valued features. Many users lose access to essential tools simply because they can’t afford the software.
+
+This reality drives our mission: to create a 100% free and transparent solution that, while not matching Scrivener in full, delivers a comparable experience where it matters most.
+
+We’re not aiming to surpass **Scrivener** in design or functionality. Our current focus is to deliver a viable, minimalist-yet-powerful alternative to one of the best writing tools available.
 
 > [!IMPORTANT]
 > 
