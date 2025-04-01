@@ -2,13 +2,20 @@
   <img src="https://github.com/user-attachments/assets/0c2ecd61-62b2-42ad-9781-fc626a408602" style="display: block; margin-top: auto; margin-bottom: auto; width: 100%" alt="Novident logo"/>
 </p>
 
-**🚧 Project Status: Early Development | 📜 License: BSD-3 clause (Open Source) | 💬 Join the Community**
+> [!WARNING]
+> **This project is still in its early stages of development, so a lot could change from version to version**
 
-**Novident** is a groundbreaking **open-source writing suite** designed to be the ultimate free alternative to Scrivener, the world's leading writing software. Built with modularity and freedom in mind, Novident empowers authors, researchers, and storytellers with Scrivener-like features—without the cost or closed-source limitations.
+**Novident** is an innovative **open source writing suite** designed to be a free, cross-platform alternative that is as similar as possible to [Scrivener](https://www.literatureandlatte.com/scrivener/overview). Built with modularity and freedom in mind, Novident offers authors, researchers, and storytellers Scrivener-like features without the cost or limitations of closed source code.
 
-## What is the motivation behind Novident existence ❓
+## Motivation
 
-One of the biggest reasons this project was created is because there is no truly viable alternative to Scrivener, or at least one that offers a similar writing experience, without having to pay for advanced functionality. Most current platforms offer partial solutions, none of which can match Scrivener's **holistic environment** for long-form writing.
+One of the main reasons this project was created is that (currently) there is no alternative that can match Scrivener, or at least one that offers a similar writing experience without having to pay for advanced features and that is cross-platform. As many know, Scrivener is mostly only available for iOS or macOS, although it also has support for Windows.
+
+This is why we decided that creating Novident would be a good solution to most of the problems we have when looking for a similar alternative that is available on any current platform.
+
+> [!IMPORTANT]
+> 
+> **Novident** is not affiliated with Scrivener or Literature & Latte. Our goal is to create a free, ethical alternative inspired by their workflow innovations.
 
 ### Our Target
 
@@ -18,10 +25,6 @@ Novident bridges this gap by providing:
 - **🧩 Modular Architecture:** We use our own individual components (corkboard, compiler, tree view) to create each of your project's modules.
 - **🔍 Scrivener-Like Experience:** Intuitive UI/UX that tries to resemble Scrivener's core workflow as much as possible.
 - **🌍 Community-Driven:** Built by and for writers who value transparency.
-
-> [!IMPORTANT]
-> 
-> **Novident** is not affiliated with Scrivener or Literature & Latte. Our goal is to create a free, ethical alternative inspired by their workflow innovations.
 
 ## Key Features 🌟
 
@@ -39,9 +42,10 @@ Novident bridges this gap by providing:
 Novident is built as a collection of independent, reusable libraries:
 
 ```
-── novident-editor/     # Custom editor component
-── novident-corkboard/  # Corkboard UI
+── novident-editor/      # Custom editor component
+── novident-corkboard/   # Corkboard UI
 ── novident-compilers/   # Formatting/export engine
+── novident-layouts/     # General formatter processor for Novident editor content
 ── novident-tree-view/   # Hierarchical project view
 ```
 
@@ -59,3 +63,7 @@ Review our [Contribution Guidelines](https://github.com/Novident/.github/blob/ma
 - **Star This Repo:** Show your support!
 - **Donate:** Help fund development via [Open Collective](https://opencollective.com/Novident-Team).
 - **Spread the Word:** Share Novident with writing communities.
+
+## License
+
+**All libraries used by Novident are licensed under the 📜 BSD-3-Clause License (Open Source).**
