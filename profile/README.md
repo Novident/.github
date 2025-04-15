@@ -35,9 +35,10 @@ Novident bridges this gap by providing:
 | Component          | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | **Smart Editor**   | Distraction-free writing with rich formatting and metadata tagging          |
-| **Corkboard**      | Visual scene organization using virtual index cards                        |
-| **Tree View**      | Hierarchical project structure for chapters, scenes, and research          |
-| **Outliner**       | Plot management with drag-and-drop sequencing                              |
+| **Corkboard**      | Visual scene organization using virtual index cards                         |
+| **Tree View**      | Hierarchical project structure for chapters, scenes, and research           |
+| **Outliner**       | Plot management with drag-and-drop sequencing                               |
+| **Split view**     | Customizable system for split views designed to work with the novident-corkboard  |
 | **Compiler**       | Export to multiple formats (PDF, ePub, DOCX) with custom templates          |
 | **Snapshot System**| Version control for drafts                                                  |
 
@@ -51,6 +52,7 @@ Novident is built as a collection of independent, reusable libraries:
 ── novident-compilers/   # Formatting/export engine
 ── novident-layouts/     # General formatter processor for Novident editor content
 ── novident-tree-view/   # Hierarchical project view
+── novident-split-view/  # General grid-based view separator 
 ```
 
 ## Contribute 🤝
@@ -65,7 +67,7 @@ Review our [Contribution Guidelines](https://github.com/Novident/.github/blob/ma
 ## Support the Project 💙
 
 - **Star This Repo:** Show your support!
-- **Donate:** Help fund development via [Open Collective](https://opencollective.com/Novident-Team).
+- **Donate:** Help fund development via _No available now_.
 - **Spread the Word:** Share Novident with writing communities.
 
 ## License
