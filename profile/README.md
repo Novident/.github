@@ -5,6 +5,11 @@
 > [!WARNING]
 > **This project is still in its early stages of development, so a lot could change from a version to another**
 
+> [!IMPORTANT]
+> I'm currently working on the roadmap and the tasks we need to prioritize for the project to move forward correctly (and we also need to start prioritizing which modules should be developed and stabilized before the others).
+>
+> _Little by little, I'm also creating the designs of how the application should look, as a reference only. All of this, since the libraries **Novident** uses will take a considerable amount of time to develop)._
+
 **Novident** is an **open source writing suite** designed to be a free, cross-platform alternative that is as similar as possible to [Scrivener](https://www.literatureandlatte.com/scrivener/overview). Built with modularity and freedom in mind, Novident offers authors, researchers, and storytellers Scrivener-like features without the cost or limitations of closed source code.
 
 ## Motivation
