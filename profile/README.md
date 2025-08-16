@@ -3,12 +3,12 @@
 </p>
 
 > [!WARNING]
-> **This project is still in its early stages of development, so a lot could change from a version to another**
+> **This project is still in its early stages of development**
 
 > [!IMPORTANT]
 > I'm currently working on the roadmap and the tasks we need to prioritize for the project to move forward correctly (and we also need to start prioritizing which modules should be developed and stabilized before the others).
 >
-> _Little by little, I'm also creating the designs of how the application should look, as a reference only. All of this, since the libraries **Novident** uses will take a considerable amount of time to develop)._
+> Please note that I'm busy for some external reasons (work, family, studies, etc.), and building a WYSIWYG editor in Flutter from scratch isn't an easy thing to do with just one person. Developing the app will take some time until I can build an editor that fits our requirements.
 
 **Novident** is an **open source writing suite** designed to be a free, cross-platform alternative that is as similar as possible to [Scrivener](https://www.literatureandlatte.com/scrivener/overview). Built with modularity and freedom in mind, Novident offers authors, researchers, and storytellers Scrivener-like features without the cost or limitations of closed source code.
 
@@ -37,12 +37,12 @@ Novident bridges this gap by providing:
 
 | Component          | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
-| **Smart Editor**   | Distraction-free writing with rich formatting and metadata tagging          |
-| **Corkboard**      | Visual scene organization using virtual index cards                         |
-| **Tree View**      | Hierarchical project structure for chapters, scenes, and research           |
+| **WYSIWYG Editor**   | Distraction-free writing with rich formatting and metadata tagging          |
+| **Corkboard View**      | Visual scene organization using virtual index cards                         |
+| **Explorer Tree View**      | Hierarchical project structure for chapters, scenes, and research           |
 | **Outliner**       | Plot management with drag-and-drop sequencing                               |
 | **Split view**     | Customizable system for split views designed to work with the novident-corkboard  |
-| **Compiler**       | Export to multiple formats (PDF, ePub, DOCX) with custom templates          |
+| **Rich Compiler**       | Export to multiple formats (PDF, ePub, DOCX) with custom templates          |
 | **Snapshot System**| Version control for drafts                                                  |
 
 ## Modular Architecture 🧱
@@ -71,3 +71,4 @@ Review our [Contribution Guidelines](https://github.com/Novident/.github/blob/ma
 - **Star This Repo:** Show your support!
 - **Donate:** Help fund development via - **_No available by now_**.
 - **Spread the Word:** Share Novident with writing communities.
+
