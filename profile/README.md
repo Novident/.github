@@ -6,9 +6,7 @@
 > **This project is still in its early stages of development**
 
 > [!IMPORTANT]
-> I'm currently working on the roadmap and the tasks we need to prioritize for the project to move forward correctly (and we also need to start prioritizing which modules should be developed and stabilized before the others).
->
-> Please note that I'm busy for some external reasons (work, family, studies, etc.), and building a WYSIWYG editor in Flutter from scratch isn't an easy thing to do with just one person. Developing the app will take some time until I can build an editor that fits our requirements.
+> For external reasons, this project is on hold.
 
 **Novident** is an **open source writing suite** designed to be a free, cross-platform alternative that is as similar as possible to [Scrivener](https://www.literatureandlatte.com/scrivener/overview). Built with modularity and freedom in mind, Novident offers authors, researchers, and storytellers Scrivener-like features without the cost or limitations of closed source code.
 
@@ -70,5 +68,5 @@ Review our [Contribution Guidelines](https://github.com/Novident/.github/blob/ma
 
 - **Star This Repo:** Show your support!
 - **Donate:** Help fund development via - **_No available by now_**.
-- **Spread the Word:** Share Novident with writing communities.
+
 
